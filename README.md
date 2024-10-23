@@ -32,7 +32,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rabingrg&show_icons=true&locale=en" alt="rabingrg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabingrg&" alt="rabingrg" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rabingrg&" alt="rabingrg" /></p>
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
