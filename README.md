@@ -35,6 +35,4 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rabingrg&" alt="rabingrg" /></p>
 
 
-<h3 align="left">✍️ Random Dev Quote</h3>
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
