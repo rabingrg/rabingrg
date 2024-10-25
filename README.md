@@ -32,8 +32,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabingrg&show_icons=true&locale=en&layout=compact" alt="rabingrg" /></p>
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rabingrg&" alt="rabingrg" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rabingrg&" alt="rabingrg" /></p>
 
-### ✍️ Random Dev Quote
+
+<p align="center">✍️ Random Dev Quote</p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
