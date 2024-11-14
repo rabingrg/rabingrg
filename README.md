@@ -5,11 +5,7 @@
 
 - 🔭 I’m currently working on **React and TypeScript.**
 
-- 🌱 I’m currently learning **TypeScript and exploring on backend development.**
-
-- 👯 I’m looking to collaborate on **front-end projects.**
-
-- 📫 How to reach me **rabinisgurung@gmail.com**
+- 📫 Reach me at **rabinisgurung@gmail.com**
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
