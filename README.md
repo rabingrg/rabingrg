@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabingrg&label=Profile%20views&color=0e75b6&style=flat" alt="rabingrg" /> </p>
 
-- 🔭 I’m currently working on **React and TypeScript.**
+- 🔭 I’m currently working on **Next.js and TypeScript.**
 - 👯 I’m looking to collaborate on **front-end projects.**
 - 📫 Reach me at **rabinisgurung@gmail.com**
 
