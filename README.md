@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabingrg&label=Profile%20views&color=0e75b6&style=flat" alt="rabingrg" /> </p>
 
 - 🔭 I’m currently working on **Full-Stack Development with React.js, TypeScript, Node.js, Express.js, and PostgreSQL.**
-- 👯 I’m looking to collaborate on **front-end projects.**
+- 🤝 I’m looking to collaborate on Full-Stack and Frontend projects.
 - 📫 Reach me at **rabinisgurung@gmail.com**
 
 <!-- BLOG-POST-LIST:START -->
